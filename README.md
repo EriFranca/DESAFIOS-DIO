@@ -1,5 +1,23 @@
 <h1 align="center">Desafios e Soluções :books:</h1>
 
+<p align="center">
+  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/issues">
+    <img src="https://img.shields.io/github/issues/lucasrmagalhaes/desafios-DIO" /> 
+  </a>
+    
+  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/network/members">
+    <img src="https://img.shields.io/github/forks/lucasrmagalhaes/desafios-DIO" /> 
+  </a>
+    
+  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/stargazers">
+    <img src="https://img.shields.io/github/stars/lucasrmagalhaes/desafios-DIO" /> 
+  </a>
+    
+   <a href="https://github.com/lucasrmagalhaes/desafios-DIO/LICENSE">
+    <img src="https://img.shields.io/github/license/lucasrmagalhaes/desafios-DIO" /> 
+  </a>
+</p>
+
 <!-- C Sharp -->
 <details>
     <summary><strong>C Sharp</strong></summary>
