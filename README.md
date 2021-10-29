@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/stars/lucasrmagalhaes/desafios-DIO" /> 
   </a>
     
-   <a href="https://github.com/lucasrmagalhaes/desafios-DIO/LICENSE">
+   <a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/lucasrmagalhaes/desafios-DIO" /> 
   </a>
 </p>
