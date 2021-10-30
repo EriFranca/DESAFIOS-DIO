@@ -183,19 +183,19 @@
             <tr>
                 <td align="center">1</td>
                 <td>Crescimento Populacional</td>
-                <td><a href="#">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/desafios_intermediarios_c%23/Desafios/C%20Sharp/9.%20Desafios%20Intermedi%C3%A1rios%20C%23/1.%20Crescimento%20Populacional/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Preenchimento de Vetor I</td>
-                <td><a href="#">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/desafios_intermediarios_c%23/Desafios/C%20Sharp/9.%20Desafios%20Intermedi%C3%A1rios%20C%23/2.%20Preenchimento%20de%20Vetor%20I/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Trigo no Tabuleiro</td>
-                <td><a href="#">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/desafios_intermediarios_c%23/Desafios/C%20Sharp/9.%20Desafios%20Intermedi%C3%A1rios%20C%23/3.%20Trigo%20no%20Tabuleiro/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             </tr>
