@@ -165,6 +165,42 @@
                 <td align="center">✔️</td>
             </tr>
         </table>
+        <!-- Desafios Aritméticos em C# -->
+        <!-- Desafios Intermediários C# -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Desafios Intermediários C#</th>
+            </tr>
+            <tr>
+                <th colspan="4" align="center">Take Blip Fullstack Developer #2</th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Crescimento Populacional</td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>Preenchimento de Vetor I</td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Trigo no Tabuleiro</td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            </tr>
+        </table>
+        <!-- Desafios Intermediários C# -->
         <!-- Resolvendo Algoritmos -->
         <table border=1>
             <tr>
