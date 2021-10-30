@@ -20,7 +20,7 @@
 
 <!-- C Sharp -->
 <details>
-    <summary><strong>C Sharp</strong></summary>
+    <summary><strong>C#</strong></summary>
     <br />
     <div align="left">
         <!-- Introdução a Programação com C# -->
