@@ -1,4 +1,4 @@
-<h1 align="center">Desafios e Soluções :books:</h1>
+<h1 align="center">Desafios e Soluções books:</h1>
 
 <p align="center">
   <a href="https://github.com/lucasrmagalhaes/desafios-DIO/issues">
