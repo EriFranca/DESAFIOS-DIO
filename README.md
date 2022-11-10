@@ -884,14 +884,56 @@
             </tr>
             <tr>
                 <td align="center">2</td>
-                <td>Distância</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.2.%20Dist%C3%A2ncia/solucao.js">Código</a></td>
+                <td>Fuzzbuzz</td>
+                <td><a href="https://github.com/EriFranca/DESAFIOS-DIO/tree/master/Desafios/JavaScript/9.%20Orange%20tech/2.%20FizzBuzz">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
-                <td>Quanta Mandioca?</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.3.%20Quanta%20Mandioca/solucao.js">Código</a></td>
+                <td>Uma Chamada Recursiva</td>
+                <td><a href="https://github.com/EriFranca/DESAFIOS-DIO/tree/master/Desafios/JavaScript/9.%20Orange%20tech/3.%20Uma%20Chamada%20Recursiva">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td>Os Números São Iguais</td>
+                <td><a href="https://github.com/EriFranca/DESAFIOS-DIO/tree/master/Desafios/JavaScript/9.%20Orange%20tech/4.%20Os%20N%C3%BAmeros%20s%C3%A3o%20Iguais">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">5</td>
+                <td>Busca Sequencial</td>
+                <td><a href="https://github.com/EriFranca/DESAFIOS-DIO/tree/master/Desafios/JavaScript/9.%20Orange%20tech/5.%20Busca%20Sequencial">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">6</td>
+                <td>Fatorial Desajeitado</td>
+                <td><a href="https://github.com/EriFranca/DESAFIOS-DIO/tree/master/Desafios/JavaScript/9.%20Orange%20tech/6.%20Fatorial%20Desajeitado">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">7</td>
+                <td>Checagem de Palindromos</td>
+                <td><a href="https://github.com/EriFranca/DESAFIOS-DIO/tree/master/Desafios/JavaScript/9.%20Orange%20tech/7.%20Checagem%20de%20Palindromos">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">8</td>
+                <td>Quadrados Perfeitos</td>
+                <td><a href="https://github.com/EriFranca/DESAFIOS-DIO/tree/master/Desafios/JavaScript/9.%20Orange%20tech/8.%20Quadrados%20Perfeitos">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">9</td>
+                <td>Matriz Par e Impar</td>
+                <td><a href="https://github.com/EriFranca/DESAFIOS-DIO/tree/master/Desafios/JavaScript/9.%20Orange%20tech/9.%20Matriz%20Par%20e%20Impar">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">10</td>
+                <td>Validação de Parênteses</td>
+                <td><a href="https://github.com/EriFranca/DESAFIOS-DIO/tree/master/Desafios/JavaScript/9.%20Orange%20tech/10.%20Valida%C3%A7%C3%A3o%20de%20Par%C3%AAnteses">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
