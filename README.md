@@ -862,10 +862,10 @@
                 <td align="center">✅</td>
             </tr>
         </table>
-        <!-- Desafios Intermediarios em Javascript -->
+        <!-- Desafios Intermediários em Javascript -->
         <table border=1>
             <tr>
-                <th colspan="4">Desafios Intermediarios em Javascript</th>
+                <th colspan="4">Desafios Intermediários em Javascript</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
