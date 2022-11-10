@@ -878,8 +878,8 @@
             </tr>
             <tr>
                 <td align="center">1</td>
-                <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.1.%20Dvividindo%20X%20por%20Y/solucao.js">Código</a></td>
+                <td>Somando Munltiplos</td>
+                <td><a href="https://github.com/EriFranca/DESAFIOS-DIO/tree/master/Desafios/JavaScript/9.%20Orange%20tech/1.%20Somando%20Multiplos">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
