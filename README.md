@@ -440,6 +440,25 @@
                 <td>Três Divisores</td>
                 <td><a href="">Código</a></td>
                 <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td>Elemento Majoritário</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✅</td>
+            </tr> 
+            <tr>
+                <td align="center">5</td>
+                <td>Aumento de Salário</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✅</td>
+            </tr> 
+            <tr>
+                <td align="center">6</td>
+                <td>A Corrida de Tartarugas</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✅</td>
+            </tr>     
         </table>
         <!-- Primeiros desafios em C# -->
     </div>
