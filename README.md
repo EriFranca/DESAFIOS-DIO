@@ -40,7 +40,7 @@
             <tr>
                 <td align="center">1</td>
                 <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/01.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/1.%20Dividindo%20X%20por%20Y/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/DESAFIOS-DIO/tree/master/Desafios/C%23/01.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
