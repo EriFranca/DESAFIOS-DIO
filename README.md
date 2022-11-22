@@ -409,6 +409,38 @@
                 <td align="center">✅</td>
             </tr>
         </table>
+        <!-- Potencial .Net developer em C# -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Potencial .Net developereem C#</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Subtraindo o produto e a soma de um número inteiro</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>Encaixa ou Não?</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Três Divisores</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✅</td>
+        </table>
         <!-- Primeiros desafios em C# -->
     </div>
 </details>
