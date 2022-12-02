@@ -935,7 +935,7 @@
             </tr>
             <tr>
                 <td align="center">2</td>
-                <td>Fuzzbuzz</td>
+                <td>Fizzbuzz</td>
                 <td><a href="https://github.com/EriFranca/DESAFIOS-DIO/tree/master/Desafios/JavaScript/9.%20Orange%20tech/2.%20FizzBuzz">Código</a></td>
                 <td align="center">✅</td>
             </tr>
